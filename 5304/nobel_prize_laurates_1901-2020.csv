@@ -1,0 +1,963 @@
+﻿Year,Name,Surname,Gender,Citizenship,Region,Born,Category
+2020,Emmanuelle,Charpentier,Female,France,Western Europe,1968,Chemistry
+2020,Jennifer Anne,Doudna,Female,United States,North America,1964,Chemistry
+2019,John Bannister,Goodenough ,Male,United States,North America,1922,Chemistry
+2019,Michael Stanley,Whittingham,Male,United Kingdom,Northern Europe,1941,Chemistry
+2019,Yoshino,Akira,Male,Japan,East Asia,1948,Chemistry
+2018,Frances Hamilton,Arnold,Female,United States,North America,1956,Chemistry
+2018,George Pearson,Smith,Male,United States,North America,1941,Chemistry
+2018,Gregory Paul,Winter,Male,United Kingdom,Northern Europe,1951,Chemistry
+2017,Jacques,Dubochet,Male,Switzerland,Western Europe,1942,Chemistry
+2017,Joachim,Frank,Male,Germany,Western Europe,1940,Chemistry
+2017,Richard,Henderson,Male,United Kingdom,Northern Europe,1945,Chemistry
+2016,Jean-Pierre,Sauvage,Male,France,Western Europe,1944,Chemistry
+2016,Sir James Fraser,Stoddart,Male,United Kingdom,Northern Europe,1942,Chemistry
+2016,Bernard Lucas,Feringa,Male,Netherlands,Western Europe,1951,Chemistry
+2015,Tomas,Lindahl,Male,Sweden,Northern Europe,1938,Chemistry
+2015,Paul,Modrich,Male,United States,North America,1946,Chemistry
+2015,Aziz,Sancar,Male,Turkey,Middle East,1946,Chemistry
+2014,Eric Betzig,Eric Betzig,Male,United States,North America,1960,Chemistry
+2014,Stefan W.,Hell,Male,Germany,Western Europe,1962,Chemistry
+2014,William E.,Moerner,Male,United States,North America,1953,Chemistry
+2013,Martin,Karplus,Male,Austria,Western Europe,1930,Chemistry
+2013,Michael,Levitt,Male,United States,North America,1947,Chemistry
+2013,Arieh,Warshel,Male,Israel,Middle East,1940,Chemistry
+2012,Robert J.,Lefkowitz,Male,United States,North America,1943,Chemistry
+2012,Brian K.,Kobilka,Male,United States,North America,1955,Chemistry
+2011,Dan,Shechtman,Male,Israel,Middle East,1941,Chemistry
+2010,Richard F.,Heck,Male,United States,North America,1931,Chemistry
+2010,Ei-ichi,Negishi,Male,China,East Asia,1935,Chemistry
+2010,Akira,Suzuki,Male,Japan,East Asia,1930,Chemistry
+2009,Venkatraman,Ramakrishnan,Male,United States,North America,1952,Chemistry
+2009,Thomas A.,Steitz,Male,United States,North America,1940,Chemistry
+2009,Ada E.,Yonath,Female,Israel,Middle East,1939,Chemistry
+2008,Martin,Chalfie,Male,United States,North America,1947,Chemistry
+2008,Osamu,Shimomura,Male,United States,North America,1928,Chemistry
+2008,Roger Y.,Tsien,Male,United States,North America,1952,Chemistry
+2007,Gerhard,Ertl,Male,Germany,Western Europe,1936,Chemistry
+2006,Roger D.,Kornberg,Male,United States,North America,1947,Chemistry
+2005,Yves,Chauvin,Male,France,Western Europe,1930,Chemistry
+2005,Robert H.,Grubbs,Male,United States,North America,1942,Chemistry
+2005,Richard R.,Schrock,Male,United States,North America,1945,Chemistry
+2004,Aaron,Ciechanover,Male,Israel,Middle East,1947,Chemistry
+2004,Avram,Hershko,Male,Israel,Middle East,1937,Chemistry
+2004,Irwin,Rose,Male,United States,North America,1926,Chemistry
+2003,Peter,Agre,Male,United States,North America,1949,Chemistry
+2003,Roderick,MacKinnon,Male,United States,North America,1956,Chemistry
+2002,John B.,Fenn,Male,United States,North America,1917,Chemistry
+2002,Koichi,Tanaka,Male,Japan,East Asia,1959,Chemistry
+2002,Kurt,Wüthrich,Male,Switzerland,Western Europe,1938,Chemistry
+2001,William S.,Knowles,Male,United States,North America,1917,Chemistry
+2001,Ryoji,Noyori,Male,Japan,East Asia,1938,Chemistry
+2001,K. Barry,Sharpless,Male,United States,North America,1941,Chemistry
+2000,Alan,Heeger,Male,United States,North America,1936,Chemistry
+2000,Alan G.,MacDiarmid,Male,United States,North America,1927,Chemistry
+2000,Hideki,Shirakawa,Male,Japan,East Asia,1936,Chemistry
+1999,Ahmed,Zewail,Male,Egypt,Northern Africa,1946,Chemistry
+1998,Walter,Kohn,Male,United States,North America,1923,Chemistry
+1998,John,Pople,Male,United Kingdom,Northern Europe,1925,Chemistry
+1997,Paul D.,Boyer,Male,United States,North America,1918,Chemistry
+1997,Jens C.,Skou,Male,Denmark,Northern Europe,1918,Chemistry
+1997,John E.,Walker,Male,United Kingdom,Northern Europe,1941,Chemistry
+1996,Robert F.,Curl Jr.,Male,United States,North America,1933,Chemistry
+1996,Sir Harold,Kroto,Male,United Kingdom,Northern Europe,1939,Chemistry
+1996,Richard E.,Smalley,Male,United States,North America,1943,Chemistry
+1995,Paul J.,Crutzen,Male,Netherlands,Western Europe,1933,Chemistry
+1995,Mario J.,Molina,Male,United States,North America,1943,Chemistry
+1995,F. Sherwood,Rowland,Male,United States,North America,1927,Chemistry
+1994,George A.,Olah,Male,United States,North America,1927,Chemistry
+1993,Kary B.,Mullis,Male,United States,North America,1944,Chemistry
+1993,Michael,Smith,Male,Canada,North America,1932,Chemistry
+1992,Rudolph A.,Marcus,Male,United States,North America,1923,Chemistry
+1991,Richard R.,Ernst,Male,Switzerland,Western Europe,1933,Chemistry
+1990,Elias James,Corey,Male,United States,North America,1928,Chemistry
+1989,Sidney,Altman,Male,Canada,North America,1939,Chemistry
+1989,Thomas R.,Cech,Male,United States,North America,1947,Chemistry
+1988,Johann,Deisenhofer,Male,Germany,Western Europe,1943,Chemistry
+1988,Robert,Huber,Male,Germany,Western Europe,1937,Chemistry
+1988,Hartmut,Michel,Male,Germany,Western Europe,1948,Chemistry
+1987,Donald J.,Cram,Male,United States,North America,1919,Chemistry
+1987,Jean-Marie,Lehn,Male,France,Western Europe,1939,Chemistry
+1987,Charles J.,Pedersen,Male,United States,North America,1904,Chemistry
+1986,Dudley R.,Herschbach,Male,United States,North America,1932,Chemistry
+1986,Yuan T.,Lee,Male,United States,North America,1936,Chemistry
+1986,John C.,Polanyi,Male,Canada,North America,1929,Chemistry
+1985,Herbert A.,Hauptman,Male,United States,North America,1917,Chemistry
+1985,Jerome,Karle,Male,United States,North America,1918,Chemistry
+1984,Bruce,Merrifield,Male,United States,North America,1921,Chemistry
+1983,Henry,Taube,Male,United States,North America,1915,Chemistry
+1982,Aaron,Klug,Male,United Kingdom,Northern Europe,1926,Chemistry
+1981,Kenichi,Fukui,Male,Japan,East Asia,1918,Chemistry
+1981,Roald,Hoffmann,Male,United States,North America,1937,Chemistry
+1980,Paul,Berg,Male,United States,North America,1926,Chemistry
+1980,Walter,Gilbert,Male,United States,North America,1932,Chemistry
+1980,Frederick,Sanger,Male,United Kingdom,Northern Europe,1918,Chemistry
+1979,Herbert C.,Brown,Male,United States,North America,1912,Chemistry
+1979,Georg,Wittig,Male,Germany,Western Europe,1897,Chemistry
+1978,Peter,Mitchell,Male,United Kingdom,Northern Europe,1920,Chemistry
+1977,Ilya,Prigogine,Male,Belgium,Western Europe,1917,Chemistry
+1976,William,Lipscomb,Male,United States,North America,1919,Chemistry
+1975,John,Cornforth,Male,Australia,Australia and New Zealand,1917,Chemistry
+1975,Vladimir,Prelog,Male,Switzerland,Western Europe,1906,Chemistry
+1974,Paul J.,Flory,Male,United States,North America,1910,Chemistry
+1973,Ernst Otto,Fischer,Male,Germany,Western Europe,1918,Chemistry
+1973,Geoffrey,Wilkinson,Male,United Kingdom,Northern Europe,1921,Chemistry
+1972,Christian,Anfinsen,Male,United States,North America,1916,Chemistry
+1972,Stanford,Moore,Male,United States,North America,1913,Chemistry
+1972,William H.,Stein,Male,United States,North America,1911,Chemistry
+1971,Gerhard,Herzberg,Male,Canada,North America,1904,Chemistry
+1970,Luis,Leloir,Male,Argentina,South America,1906,Chemistry
+1969,Derek,Barton,Male,United Kingdom,Northern Europe,1918,Chemistry
+1969,Odd,Hassel,Male,Norway,Northern Europe,1897,Chemistry
+1968,Lars,Onsager,Male,United States,North America,1903,Chemistry
+1967,Manfred,Eigen,Male,Germany,Western Europe,1927,Chemistry
+1967,Ronald G.W.,Norrish,Male,United Kingdom,Northern Europe,1897,Chemistry
+1967,George,Porter,Male,United Kingdom,Northern Europe,1920,Chemistry
+1966,Robert S.,Mulliken,Male,United States,North America,1896,Chemistry
+1965,Robert B.,Woodward,Male,United States,North America,1917,Chemistry
+1964,Dorothy Crowfoot,Hodgkin,Female,United Kingdom,Northern Europe,1910,Chemistry
+1963,Giulio,Natta,Male,Italy,Southern Europe,1903,Chemistry
+1963,Karl,Ziegler,Male,Germany,Western Europe,1898,Chemistry
+1962,John C.,Kendrew,Male,United Kingdom,Northern Europe,1917,Chemistry
+1962,Max F.,Perutz,Male,United Kingdom,Northern Europe,1914,Chemistry
+1961,Melvin,Calvin,Male,United States,North America,1911,Chemistry
+1960,Willard F.,Libby,Male,United States,North America,1908,Chemistry
+1959,Jaroslav,Heyrovsky,Male,Czechoslovakia,Eastern Europe,1890,Chemistry
+1958,Frederick,Sanger,Male,United Kingdom,Northern Europe,1918,Chemistry
+1957,Lord Todd,,Male,United Kingdom,Northern Europe,1907,Chemistry
+1956,Sir Cyril,Hinshelwood,Male,United Kingdom,Northern Europe,1897,Chemistry
+1956,Nikolay,Semenov,Male,Soviet Union,Eastern Europe,1896,Chemistry
+1955,Vincent,du Vigneaud,Male,United States,North America,1901,Chemistry
+1954,Linus,Pauling,Male,United States,North America,1901,Chemistry
+1953,Hermann,Staudinger,Male,Germany,Western Europe,1881,Chemistry
+1952,Archer J.P.,Martin,Male,United Kingdom,Northern Europe,1910,Chemistry
+1952,Richard L.M.,Synge,Male,United Kingdom,Northern Europe,1914,Chemistry
+1951,Edwin M.,McMillan,Male,United States,North America,1907,Chemistry
+1951,Glenn T.,Seaborg,Male,United States,North America,1912,Chemistry
+1950,Kurt,Alder,Male,Germany,Western Europe,1902,Chemistry
+1950,Otto,Diels,Male,Germany,Western Europe,1876,Chemistry
+1949,William F.,Giauque,Male,United States,North America,1895,Chemistry
+1948,Arne,Tiselius,Male,Sweden,Northern Europe,1902,Chemistry
+1947,Sir Robert,Robinson,Male,United Kingdom,Northern Europe,1886,Chemistry
+1946,John H.,Northrop,Male,United States,North America,1891,Chemistry
+1946,Wendell M.,Stanley,Male,United States,North America,1904,Chemistry
+1946,James B.,Sumner,Male,United States,North America,1887,Chemistry
+1945,Artturi,Virtanen,Male,Finland,Northern Europe,1895,Chemistry
+1944,Otto,Hahn,Male,Germany,Western Europe,1879,Chemistry
+1943,George,de Hevesy,Male,Hungary,Eastern Europe,1885,Chemistry
+1939,Adolf,Butenandt,Male,Germany,Western Europe,1903,Chemistry
+1939,Leopold,Ruzicka,Male,Switzerland,Western Europe,1887,Chemistry
+1938,Richard,Kuhn,Male,Germany,Western Europe,1900,Chemistry
+1937,Norman,Haworth,Male,United Kingdom,Northern Europe,1883,Chemistry
+1937,Paul,Karrer,Male,Switzerland,Western Europe,1889,Chemistry
+1936,Peter,Debye,Male,Netherlands,Western Europe,1884,Chemistry
+1935,Frédéric,Joliot,Male,France,Western Europe,1900,Chemistry
+1935,Irène,Joliot-Curie,Female,France,Western Europe,1897,Chemistry
+1934,Harold C.,Urey,Male,United States,North America,1893,Chemistry
+1932,Irving,Langmuir,Male,United States,North America,1881,Chemistry
+1931,Friedrich,Bergius,Male,Germany,Western Europe,1884,Chemistry
+1931,Carl,Bosch,Male,Germany,Western Europe,1874,Chemistry
+1930,Hans,Fischer,Male,Germany,Western Europe,1881,Chemistry
+1929,Arthur,Harden,Male,United Kingdom,Northern Europe,1865,Chemistry
+1929,Hans,von Euler-Chelpin,Male,Sweden,Northern Europe,1873,Chemistry
+1928,Adolf,Windaus,Male,Germany,Western Europe,1876,Chemistry
+1927,Heinrich,Wieland,Male,Germany,Western Europe,1877,Chemistry
+1926,The,Svedberg,Male,Sweden,Northern Europe,1884,Chemistry
+1925,Richard,Zsigmondy,Male,Germany,Western Europe,1865,Chemistry
+1923,Fritz,Pregl,Male,Austria,Western Europe,1869,Chemistry
+1922,Francis W.,Aston,Male,United Kingdom,Northern Europe,1877,Chemistry
+1921,Frederick,Soddy,Male,United Kingdom,Northern Europe,1877,Chemistry
+1920,Walther,Nernst,Male,Germany,Western Europe,1864,Chemistry
+1918,Fritz,Haber,Male,Germany,Western Europe,1868,Chemistry
+1915,Richard,Willstätter,Male,Germany,Western Europe,1872,Chemistry
+1914,Theodore W.,Richards,Male,United States,North America,1868,Chemistry
+1913,Alfred,Werner,Male,Switzerland,Western Europe,1866,Chemistry
+1912,Victor,Grignard,Male,France,Western Europe,1871,Chemistry
+1912,Paul,Sabatier,Male,France,Western Europe,1854,Chemistry
+1911,Marie,Curie,Female,France,Western Europe,1867,Chemistry
+1910,Otto,Wallach,Male,Germany,Western Europe,1847,Chemistry
+1909,Wilhelm,Ostwald,Male,Germany,Western Europe,1853,Chemistry
+1908,Ernest,Rutherford,Male,United Kingdom,Northern Europe,1871,Chemistry
+1907,Eduard,Buchner,Male,Germany,Western Europe,1860,Chemistry
+1906,Henri,Moissan,Male,France,Western Europe,1852,Chemistry
+1905,Adolf,von Baeyer,Male,Germany,Western Europe,1835,Chemistry
+1904,Sir William,Ramsay,Male,United Kingdom,Northern Europe,1852,Chemistry
+1903,Svante,Arrhenius,Male,Sweden,Northern Europe,1859,Chemistry
+1902,Emil,Fischer,Male,Germany,Western Europe,1852,Chemistry
+1901,Jacobus H.,van 't Hoff,Male,Netherlands,Western Europe,1852,Chemistry
+2020,Paul Robert,Milgrom,Male,United States,North America,1948,Economics
+2020,Robert Butler,"Wilson, Jr.",Male,United States,North America,1937,Economics
+2019,Abhijit,Banerjee,Male,United States,North America,1961,Economics
+2019,Esther,Duflo,Female,France,Western Europe,1972,Economics
+2019,Michael,Kremer,Male,United States,North America,1964,Economics
+2018,William Dawbney,Nordhaus,Male,United States,North America,1941,Economics
+2018,Paul Michael,Romer,Male,United States,North America,1955,Economics
+2017,Richard H.,Thaler,Male,United States,North America,1945,Economics
+2016,Oliver,Hart,Male,United Kingdom,Northern Europe,1948,Economics
+2016,Bengt,Holmström,Male,Finland,Northern Europe,1949,Economics
+2015,Angus,Deaton,Male,United Kingdom,Northern Europe,1945,Economics
+2014,Jean,Tirole,Male,France,Western Europe,1953,Economics
+2013,Eugene F.,Fama,Male,United States,North America,1939,Economics
+2013,Lars Peter,Hansen,Male,United States,North America,1952,Economics
+2013,Robert J.,Shiller,Male,United States,North America,1946,Economics
+2012,Alvin E.,Roth,Male,United States,North America,1951,Economics
+2012,Lloyd S.,Shapley,Male,United States,North America,1922,Economics
+2011,Thomas J.,Sargent,Male,United States,North America,1943,Economics
+2011,Christopher A.,Sims,Male,United States,North America,1942,Economics
+2010,Peter A.,Diamond,Male,United States,North America,1940,Economics
+2010,Dale T.,Mortensen,Male,United States,North America,1939,Economics
+2010,Christopher A.,Pissarides,Male,Cyprus,Middle East,1948,Economics
+2009,Elinor,Ostrom,Female,United States,North America,1933,Economics
+2009,Oliver E.,Williamson,Male,United States,North America,1932,Economics
+2008,Paul Krugman,Paul Krugman,Male,United States,North America,1953,Economics
+2007,Leonid,Hurwicz,Male,Russia,Eastern Europe,1917,Economics
+2007,Eric S.,Maskin,Male,United States,North America,1950,Economics
+2007,Roger B.,Myerson,Male,United States,North America,1951,Economics
+2006,Edmund S.,Phelps,Male,United States,North America,1933,Economics
+2005,Robert J.,Aumann,Male,Israel,Middle East,1930,Economics
+2005,Thomas C.,Schelling,Male,United States,North America,1921,Economics
+2004,Finn E.,Kydland,Male,Norway,Northern Europe,1943,Economics
+2004,Edward C.,Prescott,Male,United States,North America,1940,Economics
+2003,Robert F.,Engle III,Male,United States,North America,1942,Economics
+2003,Clive W.J.,Granger,Male,United Kingdom,Northern Europe,1934,Economics
+2002,Daniel,Kahneman,Male,United States,North America,1934,Economics
+2002,Vernon L.,Smith,Male,United States,North America,1927,Economics
+2001,George A.,Akerlof,Male,United States,North America,1940,Economics
+2001,A. Michael,Spence,Male,United States,North America,1943,Economics
+2001,Joseph E.,Stiglitz,Male,United States,North America,1943,Economics
+2000,James J.,Heckman,Male,United States,North America,1944,Economics
+2000,Daniel L.,McFadden,Male,United States,North America,1937,Economics
+1999,Robert A.,Mundell,Male,Canada,North America,1932,Economics
+1998,Amartya,Sen,Male,India,South Asia,1933,Economics
+1997,Robert C.,Merton,Male,United States,North America,1944,Economics
+1997,Myron S.,Scholes,Male,United States,North America,1941,Economics
+1996,James A.,Mirrlees,Male,United Kingdom,Northern Europe,1936,Economics
+1996,William,Vickrey,Male,United States,North America,1914,Economics
+1995,Robert E.,Lucas Jr.,Male,United States,North America,1937,Economics
+1994,John C.,Harsanyi,Male,United States,North America,1920,Economics
+1994,John F.,Nash Jr.,Male,United States,North America,1928,Economics
+1994,Reinhard,Selten,Male,Germany,Western Europe,1930,Economics
+1993,Robert W.,Fogel,Male,United States,North America,1926,Economics
+1993,Douglass C.,North,Male,United States,North America,1920,Economics
+1992,Gary S.,Becker,Male,United States,North America,1930,Economics
+1991,Ronald H.,Coase,Male,United Kingdom,Northern Europe,1910,Economics
+1990,Harry M.,Markowitz,Male,United States,North America,1927,Economics
+1990,Merton H.,Miller,Male,United States,North America,1923,Economics
+1990,William F.,Sharpe,Male,United States,North America,1934,Economics
+1989,Trygve,Haavelmo,Male,Norway,Northern Europe,1911,Economics
+1988,Maurice,Allais,Male,France,Western Europe,1911,Economics
+1987,Robert M.,Solow,Male,United States,North America,1924,Economics
+1986,James M.,Buchanan Jr.,Male,United States,North America,1919,Economics
+1985,Franco,Modigliani,Male,United States,North America,1918,Economics
+1984,Richard,Stone,Male,United Kingdom,Northern Europe,1913,Economics
+1983,Gerard,Debreu,Male,United States,North America,1921,Economics
+1982,George J.,Stigler,Male,United States,North America,1911,Economics
+1981,James,Tobin,Male,United States,North America,1918,Economics
+1980,Lawrence R.,Klein,Male,United States,North America,1920,Economics
+1979,Sir Arthur,Lewis,Male,United Kingdom,Northern Europe,1915,Economics
+1979,Theodore W.,Schultz,Male,United States,North America,1902,Economics
+1978,Herbert A.,Simon,Male,United States,North America,1916,Economics
+1977,James E.,Meade,Male,United Kingdom,Northern Europe,1907,Economics
+1977,Bertil,Ohlin,Male,Sweden,Northern Europe,1899,Economics
+1976,Milton,Friedman,Male,United States,North America,1912,Economics
+1975,Leonid Vitaliyevich,Kantorovich,Male,Soviet Union,Eastern Europe,1912,Economics
+1975,Tjalling C.,Koopmans,Male,United States,North America,1910,Economics
+1974,Gunnar,Myrdal,Male,Sweden,Northern Europe,1898,Economics
+1974,Friedrich August,von Hayek,Male,United Kingdom,Northern Europe,1899,Economics
+1973,Wassily,Leontief,Male,United States,North America,1906,Economics
+1972,Kenneth J.,Arrow,Male,United States,North America,1921,Economics
+1972,John R.,Hicks,Male,United Kingdom,Northern Europe,1904,Economics
+1971,Simon,Kuznets,Male,United States,North America,1901,Economics
+1970,Paul A.,Samuelson,Male,United States,North America,1915,Economics
+1969,Ragnar,Frisch,Male,Norway,Northern Europe,1895,Economics
+1969,Jan,Tinbergen,Male,Netherlands,Western Europe,1903,Economics
+2020,Louise,Glück,Female,United States,North America,1943,Literature
+2019,Peter,Handke,Male,Austria,Western Europe,1942,Literature
+2018,Olga,Tokarczuk,Female,Poland,Eastern Europe,1962,Literature
+2017,Ishiguro,Kazuo,Male,United Kingdom,Northern Europe,1954,Literature
+2016,Bob,Dylan,Male,United States,North America,1941,Literature
+2015,Svetlana,Alexievich,Female,Ukraine,Eastern Europe,1948,Literature
+2014,Patrick,Modiano,Male,France,Western Europe,1945,Literature
+2013,Alice,Munro,Female,Canada,North America,1931,Literature
+2012,Mo,Yan,Male,China,East Asia,1955,Literature
+2011,Tomas,Tranströmer,Male,Sweden,Northern Europe,1931,Literature
+2010,Mario,Vargas Llosa,Male,Peru,South America,1936,Literature
+2009,Herta,Müller,Female,Germany,Western Europe,1953,Literature
+2008,Jean-Marie Gustave,Le Clézio,Male,France,Western Europe,1940,Literature
+2007,Doris,Lessing,Female,United Kingdom,Northern Europe,1919,Literature
+2006,Orhan,Pamuk,Male,Turkey,Middle East,1952,Literature
+2005,Harold,Pinter,Male,United Kingdom,Northern Europe,1930,Literature
+2004,Elfriede,Jelinek,Female,Austria,Western Europe,1946,Literature
+2003,J.M.,Coetzee,Male,South Africa,Southern Africa,1940,Literature
+2002,Imre,Kertész,Male,Hungary,Eastern Europe,1929,Literature
+2001,V.S.,Naipaul,Male,United Kingdom,Northern Europe,1932,Literature
+2000,Gao,Xingjian,Male,France,Western Europe,1940,Literature
+1999,Günter,Grass,Male,Germany,Western Europe,1927,Literature
+1998,José,Saramago,Male,Portugal,Western Europe,1922,Literature
+1997,Dario,Fo,Male,Italy,Southern Europe,1926,Literature
+1996,Wislawa,Szymborska,Female,Poland,Eastern Europe,1923,Literature
+1995,Seamus,Heaney,Male,Ireland,Northern Europe,1939,Literature
+1994,Kenzaburo,Oe,Male,Japan,East Asia,1935,Literature
+1993,Toni,Morrison,Female,United States,North America,1931,Literature
+1992,Derek,Walcott,Male,Saint Lucia,Caribbean,1930,Literature
+1991,Nadine,Gordimer,Female,South Africa,Southern Africa,1923,Literature
+1990,Octavio,Paz,Male,Mexico,North America,1914,Literature
+1989,Camilo José,Cela,Male,Spain,Southern Europe,1916,Literature
+1988,Naguib,Mahfouz,Male,Egypt,Northern Africa,1911,Literature
+1987,Joseph,Brodsky,Male,United States,North America,1940,Literature
+1986,Wole,Soyinka,Male,Nigeria,Western Africa,1934,Literature
+1985,Claude,Simon,Male,France,Western Europe,1913,Literature
+1984,Jaroslav,Seifert,Male,Czechoslovakia,Eastern Europe,1901,Literature
+1983,William,Golding,Male,United Kingdom,Northern Europe,1911,Literature
+1982,Gabriel García,Márquez,Male,Colombia,South America,1928,Literature
+1981,Elias,Canetti,Male,United Kingdom,Northern Europe,1905,Literature
+1980,Czeslaw,Milosz,Male,Poland,Eastern Europe,1911,Literature
+1979,Odysseus,Elytis,Male,Greece,Southern Europe,1911,Literature
+1978,Isaac Bashevis,Singer,Male,United States,North America,1904,Literature
+1977,Vicente,Aleixandre,Male,Spain,Southern Europe,1898,Literature
+1976,Saul,Bellow,Male,United States,North America,1915,Literature
+1975,Eugenio,Montale,Male,Italy,Southern Europe,1896,Literature
+1974,Eyvind,Johnson,Male,Sweden,Northern Europe,1900,Literature
+1974,Harry,Martinson,Male,Sweden,Northern Europe,1904,Literature
+1973,Patrick,White,Male,Australia,Australia and New Zealand,1912,Literature
+1972,Heinrich,Böll,Male,Germany,Western Europe,1917,Literature
+1971,Pablo,Neruda,Male,Chile,South America,1904,Literature
+1970,Alexandr,Solzhenitsyn,Male,Soviet Union,Eastern Europe,1918,Literature
+1969,Samuel,Beckett,Male,Ireland,Northern Europe,1906,Literature
+1968,Yasunari,Kawabata,Male,Japan,East Asia,1899,Literature
+1967,Miguel Angel,Asturias,Male,Guatemala,Central America,1899,Literature
+1966,Samuel,Agnon,Male,Israel,Middle East,1888,Literature
+1966,Nelly,Sachs,Female,Sweden,Northern Europe,1891,Literature
+1965,Mikhail,Sholokhov,Male,Soviet Union,Eastern Europe,1905,Literature
+1964,Jean-Paul,Sartre,Male,France,Western Europe,1905,Literature
+1963,Giorgos,Seferis,Male,Greece,Southern Europe,1900,Literature
+1962,John,Steinbeck,Male,United States,North America,1902,Literature
+1961,Ivo,Andric,Male,Yugoslavia,Southern Europe,1892,Literature
+1960,Saint-John,Perse,Male,France,Western Europe,1887,Literature
+1959,Salvatore,Quasimodo,Male,Italy,Southern Europe,1901,Literature
+1958,Boris,Pasternak,Male,Soviet Union,Eastern Europe,1890,Literature
+1957,Albert,Camus,Male,France,Western Europe,1913,Literature
+1956,Juan Ramón,Jiménez,Male,Spain,Southern Europe,1881,Literature
+1955,Halldór,Laxness,Male,Iceland,Northern Europe,1902,Literature
+1954,Ernest,Hemingway,Male,United States,North America,1899,Literature
+1953,Winston,Churchill,Male,United Kingdom,Northern Europe,1874,Literature
+1952,François,Mauriac,Male,France,Western Europe,1885,Literature
+1951,Pär,Lagerkvist,Male,Sweden,Northern Europe,1891,Literature
+1950,Bertrand,Russell,Male,United Kingdom,Northern Europe,1872,Literature
+1949,William,Faulkner,Male,United States,North America,1897,Literature
+1948,T.S.,Eliot,Male,United Kingdom,Northern Europe,1888,Literature
+1947,André,Gide,Male,France,Western Europe,1869,Literature
+1946,Hermann,Hesse,Male,Switzerland,Western Europe,1877,Literature
+1945,Gabriela,Mistral,Female,Chile,South America,1889,Literature
+1944,Johannes V.,Jensen,Male,Denmark,Northern Europe,1873,Literature
+1939,Frans Eemil,Sillanpää,Male,Finland,Northern Europe,1888,Literature
+1938,Pearl,Buck,Female,United States,North America,1892,Literature
+1937,Roger,Martin du Gard,Male,France,Western Europe,1881,Literature
+1936,Eugene,O'Neill,Male,United States,North America,1888,Literature
+1934,Luigi,Pirandello,Male,Italy,Southern Europe,1867,Literature
+1933,Ivan,Bunin,Male,Russia,Eastern Europe,1870,Literature
+1932,John,Galsworthy,Male,United Kingdom,Northern Europe,1867,Literature
+1931,Erik Axel,Karlfeldt,Male,Sweden,Northern Europe,1864,Literature
+1930,Sinclair,Lewis,Male,United States,North America,1885,Literature
+1929,Thomas,Mann,Male,Germany,Western Europe,1875,Literature
+1928,Sigrid,Undset,Female,Norway,Northern Europe,1882,Literature
+1927,Henri,Bergson,Male,France,Western Europe,1859,Literature
+1926,Grazia,Deledda,Female,Italy,Southern Europe,1871,Literature
+1925,George Bernard,Shaw,Male,United Kingdom,Northern Europe,1856,Literature
+1924,Wladyslaw,Reymont,Male,Poland,Eastern Europe,1867,Literature
+1923,William Butler,Yeats,Male,Ireland,Northern Europe,1865,Literature
+1922,Jacinto,Benavente,Male,Spain,Southern Europe,1866,Literature
+1921,Anatole,France,Male,France,Western Europe,1844,Literature
+1920,Knut,Hamsun,Male,Norway,Northern Europe,1859,Literature
+1919,Carl,Spitteler,Male,Switzerland,Western Europe,1845,Literature
+1917,Karl,Gjellerup,Male,Denmark,Northern Europe,1857,Literature
+1917,Henrik,Pontoppidan,Male,Denmark,Northern Europe,1857,Literature
+1916,Verner,von Heidenstam,Male,Sweden,Northern Europe,1859,Literature
+1915,Romain,Rolland,Male,France,Western Europe,1866,Literature
+1913,Rabindranath,Tagore,Male,India,South Asia,1861,Literature
+1912,Gerhart,Hauptmann,Male,Germany,Western Europe,1862,Literature
+1911,Maurice,Maeterlinck,Male,Belgium,Western Europe,1862,Literature
+1910,Paul,Heyse,Male,Germany,Western Europe,1830,Literature
+1909,Selma,Lagerlöf,Female,Sweden,Northern Europe,1858,Literature
+1908,Rudolf,Eucken,Male,Germany,Western Europe,1846,Literature
+1907,Rudyard,Kipling,Male,United Kingdom,Northern Europe,1865,Literature
+1906,Giosuè,Carducci,Male,Italy,Southern Europe,1835,Literature
+1905,Henryk,Sienkiewicz,Male,Poland,Eastern Europe,1846,Literature
+1904,José,Echegaray,Male,Spain,Southern Europe,1832,Literature
+1904,Frédéric,Mistral,Male,France,Western Europe,1830,Literature
+1903,Bjørnstjerne,Bjørnson,Male,Norway,Northern Europe,1832,Literature
+1902,Theodor,Mommsen,Male,Germany,Western Europe,1817,Literature
+1901,Sully,Prudhomme,Male,France,Western Europe,1839,Literature
+2020,Roger,Penrose,Male,United Kingdom,Northern Europe,1931,Physics
+2020,Reinhard,Genzel,Male,Germany,Western Europe,1952,Physics
+2020,Andrea,Ghez,Female,United States,North America,1965,Physics
+2019,Phillip James Edwin (Jim),Peebles,Male,Canada,North America,1935,Physics
+2019,Michel,Mayor,Male,Switzerland,Western Europe,1942,Physics
+2019,Didier,Queloz,Male,Switzerland,Western Europe,1966,Physics
+2018,Arthur,Ashkin,Male,United States,North America,1922,Physics
+2018,Gérard,Mourou,Male,France,Western Europe,1944,Physics
+2018,Donna,Strickland,Female,Canada,North America,1959,Physics
+2017,Rainer,Weiss,Male,United States,North America,1932,Physics
+2017,Barry C.,Barish,Male,United States,North America,1936,Physics
+2017,Kip S.,Thorne,Male,United States,North America,1940,Physics
+2016,David James,Thouless,Male,United Kingdom,Northern Europe,1934,Physics
+2016,Frederick Duncan M.,Haldane,Male,United Kingdom,Northern Europe,1951,Physics
+2016,John Michael,Kosterlitz,Male,United Kingdom,Northern Europe,1942,Physics
+2015,Arthur B.,McDonald,Male,Canada,North America,1943,Physics
+2015,Takaaki,Kajita,Male,Japan,East Asia,1959,Physics
+2014,Isamu,Akasaki,Male,Japan,East Asia,1929,Physics
+2014,Hiroshi,Amano,Male,Japan,East Asia,1960,Physics
+2014,Shuji,Nakamura,Male,Japan,East Asia,1954,Physics
+2013,François,Englert,Male,Belgium,Western Europe,1932,Physics
+2013,Peter W.,Higgs,Male,United Kingdom,Northern Europe,1929,Physics
+2012,Serge,Haroche,Male,France,Western Europe,1944,Physics
+2012,David J.,Wineland,Male,United States,North America,1944,Physics
+2011,Saul,Perlmutter,Male,United States,North America,1959,Physics
+2011,Brian P.,Schmidt,Male,United States,North America,1967,Physics
+2011,Adam G.,Riess,Male,United States,North America,1969,Physics
+2010,Andre,Geim,Male,Russia,Eastern Europe,1958,Physics
+2010,Konstantin,Novoselov,Male,Russia,Eastern Europe,1974,Physics
+2009,Willard S.,Boyle,Male,Canada,North America,1924,Physics
+2009,Charles K.,Kao,Male,China,East Asia,1933,Physics
+2009,George E.,Smith,Male,United States,North America,1930,Physics
+2008,Makoto,Kobayashi,Male,Japan,East Asia,1944,Physics
+2008,Toshihide,Maskawa,Male,Japan,East Asia,1940,Physics
+2008,Yoichiro,Nambu,Male,United States,North America,1921,Physics
+2007,Albert,Fert,Male,France,Western Europe,1938,Physics
+2007,Peter,Grünberg,Male,Germany,Western Europe,1939,Physics
+2006,John C.,Mather,Male,United States,North America,1946,Physics
+2006,George F.,Smoot,Male,United States,North America,1945,Physics
+2005,Roy J.,Glauber,Male,United States,North America,1925,Physics
+2005,John L.,Hall,Male,United States,North America,1934,Physics
+2005,Theodor W.,Hänsch,Male,Germany,Western Europe,1941,Physics
+2004,David J.,Gross,Male,United States,North America,1941,Physics
+2004,H. David,Politzer,Male,United States,North America,1949,Physics
+2004,Frank,Wilczek,Male,United States,North America,1951,Physics
+2003,Alexei A.,Abrikosov,Male,United States,North America,1928,Physics
+2003,Vitaly L.,Ginzburg,Male,Russia,Eastern Europe,1916,Physics
+2003,Anthony J.,Leggett,Male,United Kingdom,Northern Europe,1938,Physics
+2002,Raymond,Davis Jr.,Male,United States,North America,1914,Physics
+2002,Riccardo,Giacconi,Male,United States,North America,1931,Physics
+2002,Masatoshi,Koshiba,Male,Japan,East Asia,1926,Physics
+2001,Eric A.,Cornell,Male,United States,North America,1961,Physics
+2001,Wolfgang,Ketterle,Male,Germany,Western Europe,1957,Physics
+2001,Carl E.,Wieman,Male,United States,North America,1951,Physics
+2000,Zhores I.,Alferov,Male,Russia,Eastern Europe,1930,Physics
+2000,Jack S.,Kilby,Male,United States,North America,1923,Physics
+2000,Herbert,Kroemer,Male,Germany,Western Europe,1928,Physics
+1999,Gerardus,'t Hooft,Male,Netherlands,Western Europe,1946,Physics
+1999,Martinus J.G.,Veltman,Male,Netherlands,Western Europe,1931,Physics
+1998,Robert B.,Laughlin,Male,United States,North America,1950,Physics
+1998,Horst L.,Störmer,Male,Germany,Western Europe,1949,Physics
+1998,Daniel C.,Tsui,Male,United States,North America,1939,Physics
+1997,Steven,Chu,Male,United States,North America,1948,Physics
+1997,Claude,Cohen-Tannoudji,Male,France,Western Europe,1933,Physics
+1997,William D.,Phillips,Male,United States,North America,1948,Physics
+1996,David M.,Lee,Male,United States,North America,1931,Physics
+1996,Douglas D.,Osheroff,Male,United States,North America,1945,Physics
+1996,Robert C.,Richardson,Male,United States,North America,1937,Physics
+1995,Martin L.,Perl,Male,United States,North America,1927,Physics
+1995,Frederick,Reines,Male,United States,North America,1918,Physics
+1994,Bertram N.,Brockhouse,Male,Canada,North America,1918,Physics
+1994,Clifford G.,Shull,Male,United States,North America,1915,Physics
+1993,Russell A.,Hulse,Male,United States,North America,1950,Physics
+1993,Joseph H.,Taylor Jr.,Male,United States,North America,1941,Physics
+1992,Georges,Charpak,Male,France,Western Europe,1924,Physics
+1991,Pierre-Gilles,de Gennes,Male,France,Western Europe,1932,Physics
+1990,Jerome I.,Friedman,Male,United States,North America,1930,Physics
+1990,Henry W.,Kendall,Male,United States,North America,1926,Physics
+1990,Richard E.,Taylor,Male,Canada,North America,1929,Physics
+1989,Hans G.,Dehmelt,Male,United States,North America,1922,Physics
+1989,Wolfgang,Paul,Male,Germany,Western Europe,1913,Physics
+1989,Norman F.,Ramsey,Male,United States,North America,1915,Physics
+1988,Leon M.,Lederman,Male,United States,North America,1922,Physics
+1988,Melvin,Schwartz,Male,United States,North America,1932,Physics
+1988,Jack,Steinberger,Male,United States,North America,1921,Physics
+1987,J. Georg,Bednorz,Male,Germany,Western Europe,1950,Physics
+1987,K. Alex,Müller,Male,Switzerland,Western Europe,1927,Physics
+1986,Gerd,Binnig,Male,Germany,Western Europe,1947,Physics
+1986,Heinrich,Rohrer,Male,Switzerland,Western Europe,1933,Physics
+1986,Ernst,Ruska,Male,Germany,Western Europe,1906,Physics
+1985,Klaus,von Klitzing,Male,Germany,Western Europe,1943,Physics
+1984,Carlo,Rubbia,Male,Italy,Southern Europe,1934,Physics
+1984,Simon,van der Meer,Male,Netherlands,Western Europe,1925,Physics
+1983,Subramanyan,Chandrasekhar,Male,United States,North America,1910,Physics
+1983,William A.,Fowler,Male,United States,North America,1911,Physics
+1982,Kenneth G.,Wilson,Male,United States,North America,1936,Physics
+1981,Nicolaas,Bloembergen,Male,United States,North America,1920,Physics
+1981,Arthur L.,Schawlow,Male,United States,North America,1921,Physics
+1981,Kai M.,Siegbahn,Male,Sweden,Northern Europe,1918,Physics
+1980,James,Cronin,Male,United States,North America,1931,Physics
+1980,Val,Fitch,Male,United States,North America,1923,Physics
+1979,Sheldon,Glashow,Male,United States,North America,1932,Physics
+1979,Abdus,Salam,Male,Pakistan,South Asia,1926,Physics
+1979,Steven,Weinberg,Male,United States,North America,1933,Physics
+1978,Pyotr,Kapitsa,Male,Soviet Union,Eastern Europe,1894,Physics
+1978,Arno,Penzias,Male,United States,North America,1933,Physics
+1978,Robert Woodrow,Wilson,Male,United States,North America,1936,Physics
+1977,Philip W.,Anderson,Male,United States,North America,1923,Physics
+1977,Sir Nevill F.,Mott,Male,United Kingdom,Northern Europe,1905,Physics
+1977,John H.,van Vleck,Male,United States,North America,1899,Physics
+1976,Burton,Richter,Male,United States,North America,1931,Physics
+1976,Samuel C.C.,Ting,Male,United States,North America,1936,Physics
+1975,Aage N.,Bohr,Male,Denmark,Northern Europe,1922,Physics
+1975,Ben R.,Mottelson,Male,Denmark,Northern Europe,1926,Physics
+1975,James,Rainwater,Male,United States,North America,1917,Physics
+1974,Antony,Hewish,Male,United Kingdom,Northern Europe,1924,Physics
+1974,Martin,Ryle,Male,United Kingdom,Northern Europe,1918,Physics
+1973,Leo,Esaki,Male,Japan,East Asia,1925,Physics
+1973,Ivar,Giaever,Male,United States,North America,1929,Physics
+1973,Brian D.,Josephson,Male,United Kingdom,Northern Europe,1940,Physics
+1972,John,Bardeen,Male,United States,North America,1908,Physics
+1972,Leon N.,Cooper,Male,United States,North America,1930,Physics
+1972,Robert,Schrieffer,Male,United States,North America,1931,Physics
+1971,Dennis,Gabor,Male,United Kingdom,Northern Europe,1900,Physics
+1970,Hannes,Alfvén,Male,Sweden,Northern Europe,1908,Physics
+1970,Louis,Néel,Male,France,Western Europe,1904,Physics
+1969,Murray,Gell-Mann,Male,United States,North America,1929,Physics
+1968,Luis,Alvarez,Male,United States,North America,1911,Physics
+1967,Hans,Bethe,Male,United States,North America,1906,Physics
+1966,Alfred,Kastler,Male,France,Western Europe,1902,Physics
+1965,Richard P.,Feynman,Male,United States,North America,1918,Physics
+1965,Julian,Schwinger,Male,United States,North America,1918,Physics
+1965,Sin-Itiro,Tomonaga,Male,Japan,East Asia,1906,Physics
+1964,Nicolay G.,Basov,Male,Soviet Union,Eastern Europe,1922,Physics
+1964,Aleksandr M.,Prokhorov,Male,Soviet Union,Eastern Europe,1916,Physics
+1964,Charles H.,Townes,Male,United States,North America,1915,Physics
+1963,Maria,Goeppert-Mayer,Female,United States,North America,1906,Physics
+1963,J. Hans D.,Jensen,Male,Germany,Western Europe,1907,Physics
+1963,Eugene,Wigner,Male,United States,North America,1902,Physics
+1962,Lev,Landau,Male,Soviet Union,Eastern Europe,1908,Physics
+1961,Robert,Hofstadter,Male,United States,North America,1915,Physics
+1961,Rudolf,Mössbauer,Male,Germany,Western Europe,1929,Physics
+1960,Donald A.,Glaser,Male,United States,North America,1926,Physics
+1959,Owen,Chamberlain,Male,United States,North America,1920,Physics
+1959,Emilio,Segrè,Male,United States,North America,1905,Physics
+1958,Pavel A.,Cherenkov,Male,Soviet Union,Eastern Europe,1904,Physics
+1958,Il´ja M.,Frank,Male,Soviet Union,Eastern Europe,1908,Physics
+1958,Igor Y.,Tamm,Male,Soviet Union,Eastern Europe,1895,Physics
+1957,Tsung-Dao,Lee,Male,China,East Asia,1926,Physics
+1957,Chen Ning,Yang,Male,China,East Asia,1922,Physics
+1956,John,Bardeen,Male,United States,North America,1908,Physics
+1956,Walter H.,Brattain,Male,United States,North America,1902,Physics
+1956,William B.,Shockley,Male,United States,North America,1910,Physics
+1955,Polykarp,Kusch,Male,United States,North America,1911,Physics
+1955,Willis E.,Lamb,Male,United States,North America,1913,Physics
+1954,Max,Born,Male,United Kingdom,Northern Europe,1882,Physics
+1954,Walther,Bothe,Male,Germany,Western Europe,1891,Physics
+1953,Frits,Zernike,Male,Netherlands,Western Europe,1888,Physics
+1952,Felix,Bloch,Male,United States,North America,1905,Physics
+1952,E. M.,Purcell,Male,United States,North America,1912,Physics
+1951,John,Cockcroft,Male,United Kingdom,Northern Europe,1897,Physics
+1951,Ernest T.S.,Walton,Male,Ireland,Northern Europe,1903,Physics
+1950,Cecil,Powell,Male,United Kingdom,Northern Europe,1903,Physics
+1949,Hideki,Yukawa,Male,Japan,East Asia,1907,Physics
+1948,Patrick M.S.,Blackett,Male,United Kingdom,Northern Europe,1897,Physics
+1947,Edward V.,Appleton,Male,United Kingdom,Northern Europe,1892,Physics
+1946,Percy W.,Bridgman,Male,United States,North America,1882,Physics
+1945,Wolfgang,Pauli,Male,Austria,Western Europe,1900,Physics
+1944,Isidor Isaac,Rabi,Male,United States,North America,1898,Physics
+1943,Otto,Stern,Male,United States,North America,1888,Physics
+1939,Ernest,Lawrence,Male,United States,North America,1901,Physics
+1938,Enrico,Fermi,Male,Italy,Southern Europe,1901,Physics
+1937,Clinton,Davisson,Male,United States,North America,1881,Physics
+1937,George Paget,Thomson,Male,United Kingdom,Northern Europe,1892,Physics
+1936,Carl D.,Anderson,Male,United States,North America,1905,Physics
+1936,Victor F.,Hess,Male,Austria,Western Europe,1883,Physics
+1935,James,Chadwick,Male,United Kingdom,Northern Europe,1891,Physics
+1933,Paul A.M.,Dirac,Male,United Kingdom,Northern Europe,1902,Physics
+1933,Erwin,Schrödinger,Male,Austria,Western Europe,1887,Physics
+1932,Werner,Heisenberg,Male,Germany,Western Europe,1901,Physics
+1930,Venkata,Raman,Male,India,South Asia,1888,Physics
+1929,Louis,de Broglie,Male,France,Western Europe,1892,Physics
+1928,Owen Willans,Richardson,Male,United Kingdom,Northern Europe,1879,Physics
+1927,Arthur H.,Compton,Male,United States,North America,1892,Physics
+1927,C.T.R.,Wilson,Male,United Kingdom,Northern Europe,1869,Physics
+1926,Jean Baptiste,Perrin,Male,France,Western Europe,1870,Physics
+1925,James,Franck,Male,Germany,Western Europe,1882,Physics
+1925,Gustav,Hertz,Male,Germany,Western Europe,1887,Physics
+1924,Manne,Siegbahn,Male,Sweden,Northern Europe,1886,Physics
+1923,Robert A.,Millikan,Male,United States,North America,1868,Physics
+1922,Niels,Bohr,Male,Denmark,Northern Europe,1885,Physics
+1921,Albert,Einstein,Male,Germany,Western Europe,1879,Physics
+1920,Charles Edouard,Guillaume,Male,Switzerland,Western Europe,1861,Physics
+1919,Johannes,Stark,Male,Germany,Western Europe,1874,Physics
+1918,Max,Planck,Male,Germany,Western Europe,1858,Physics
+1917,Charles Glover,Barkla,Male,United Kingdom,Northern Europe,1877,Physics
+1915,William,Bragg,Male,United Kingdom,Northern Europe,1862,Physics
+1915,Lawrence,Bragg,Male,United Kingdom,Northern Europe,1890,Physics
+1914,Max,von Laue,Male,Germany,Western Europe,1879,Physics
+1913,Heike Kamerlingh,Onnes,Male,Netherlands,Western Europe,1853,Physics
+1912,Gustaf,Dalén,Male,Sweden,Northern Europe,1869,Physics
+1911,Wilhelm,Wien,Male,Germany,Western Europe,1864,Physics
+1910,Johannes Diderik,van der Waals,Male,Netherlands,Western Europe,1837,Physics
+1909,Ferdinand,Braun,Male,Germany,Western Europe,1850,Physics
+1909,Guglielmo,Marconi,Male,Italy,Southern Europe,1874,Physics
+1908,Gabriel,Lippmann,Male,France,Western Europe,1845,Physics
+1907,Albert A.,Michelson,Male,United States,North America,1852,Physics
+1906,J.J.,Thomson,Male,United Kingdom,Northern Europe,1856,Physics
+1905,Philipp,Lenard,Male,Germany,Western Europe,1862,Physics
+1904,Lord Rayleigh,,Male,United Kingdom,Northern Europe,1842,Physics
+1903,Henri,Becquerel,Male,France,Western Europe,1852,Physics
+1903,Pierre,Curie,Male,France,Western Europe,1859,Physics
+1903,Marie,Curie,Female,France,Western Europe,1867,Physics
+1902,Hendrik A.,Lorentz,Male,Netherlands,Western Europe,1853,Physics
+1902,Pieter,Zeeman,Male,Netherlands,Western Europe,1865,Physics
+1901,Wilhelm Conrad,Röntgen,Male,Germany,Western Europe,1845,Physics
+2020,Harvey James,Alter,Male,United States,North America,1935,Medicine
+2020,Michael,Houghton,Male,United Kingdom,Northern Europe,1949,Medicine
+2020,Charles Moen,Rice,Male,United States,North America,1952,Medicine
+2019,William G.,Kaelin Jr,Male,United States,North America,1957,Medicine
+2019,Peter John,Ratcliffe,Male,United Kingdom,Northern Europe,1954,Medicine
+2019,Gregg Leonard,Semenza,Male,United States,North America,1956,Medicine
+2018,James P.,Allison,Male,United States,North America,1948,Medicine
+2018,Tasuku,Honjo,Male,Japan,East Asia,1942,Medicine
+2017,Jeffrey C.,Hall,Male,United States,North America,1945,Medicine
+2017,Michael,Rosbash,Male,United States,North America,1944,Medicine
+2017,Michael W.,Young,Male,United States,North America,1949,Medicine
+2016,Yoshinori,Ohsumi,Male,Japan,East Asia,1945,Medicine
+2015,William C.,Campbell,Male,Ireland,Northern Europe,1930,Medicine
+2015,Satoshi,Ōmura,Male,Japan,East Asia,1935,Medicine
+2015,Youyou,Tu,Female,China,East Asia,1930,Medicine
+2014,John,O'Keefe,Male,United States,North America,1939,Medicine
+2014,May-Britt,Moser,Female,Norway,Northern Europe,1963,Medicine
+2014,Edvard,Moser,Male,Norway,Northern Europe,1962,Medicine
+2013,James E.,Rothman,Male,United States,North America,1950,Medicine
+2013,Randy W.,Schekman,Male,United States,North America,1948,Medicine
+2013,Thomas C.,Südhof,Male,Germany,Western Europe,1955,Medicine
+2012,Sir John B.,Gurdon,Male,United Kingdom,Northern Europe,1933,Medicine
+2012,Shinya,Yamanaka,Male,Japan,East Asia,1962,Medicine
+2011,Bruce A.,Beutler,Male,United States,North America,1957,Medicine
+2011,Jules A.,Hoffmann,Male,France,Western Europe,1941,Medicine
+2011,Ralph M.,Steinman,Male,Canada,North America,1943,Medicine
+2010,Robert G.,Edwards,Male,United Kingdom,Northern Europe,1925,Medicine
+2009,Elizabeth H.,Blackburn,Female,Australia,Australia and New Zealand,1948,Medicine
+2009,Carol W.,Greider,Female,United States,North America,1961,Medicine
+2009,Jack W.,Szostak,Male,Canada,North America,1952,Medicine
+2008,Françoise,Barré-Sinoussi,Female,France,Western Europe,1947,Medicine
+2008,Luc,Montagnier,Male,France,Western Europe,1932,Medicine
+2008,Harald,zur Hausen,Male,Germany,Western Europe,1936,Medicine
+2007,Mario R.,Capecchi,Male,United States,North America,1937,Medicine
+2007,Sir Martin J.,Evans,Male,United Kingdom,Northern Europe,1941,Medicine
+2007,Oliver,Smithies,Male,United States,North America,1925,Medicine
+2006,Andrew Z.,Fire,Male,United States,North America,1959,Medicine
+2006,Craig C.,Mello,Male,United States,North America,1960,Medicine
+2005,Barry J.,Marshall,Male,Australia,Australia and New Zealand,1951,Medicine
+2005,J. Robin,Warren,Male,Australia,Australia and New Zealand,1937,Medicine
+2004,Richard,Axel,Male,United States,North America,1946,Medicine
+2004,Linda B.,Buck,Female,United States,North America,1947,Medicine
+2003,Paul C.,Lauterbur,Male,United States,North America,1929,Medicine
+2003,Sir Peter,Mansfield,Male,United Kingdom,Northern Europe,1933,Medicine
+2002,Sydney,Brenner,Male,United Kingdom,Northern Europe,1927,Medicine
+2002,H. Robert,Horvitz,Male,United States,North America,1947,Medicine
+2002,John E.,Sulston,Male,United Kingdom,Northern Europe,1942,Medicine
+2001,Leland H.,Hartwell,Male,United States,North America,1939,Medicine
+2001,Tim,Hunt,Male,United Kingdom,Northern Europe,1943,Medicine
+2001,Sir Paul,Nurse,Male,United Kingdom,Northern Europe,1949,Medicine
+2000,Arvid,Carlsson,Male,Sweden,Northern Europe,1923,Medicine
+2000,Paul,Greengard,Male,United States,North America,1925,Medicine
+2000,Eric R.,Kandel,Male,United States,North America,1929,Medicine
+1999,Günter,Blobel,Male,United States,North America,1936,Medicine
+1998,Robert F.,Furchgott,Male,United States,North America,1916,Medicine
+1998,Louis J.,Ignarro,Male,United States,North America,1941,Medicine
+1998,Ferid,Murad,Male,United States,North America,1936,Medicine
+1997,Stanley B.,Prusiner,Male,United States,North America,1942,Medicine
+1996,Peter C.,Doherty,Male,Australia,Australia and New Zealand,1940,Medicine
+1996,Rolf M.,Zinkernagel,Male,Switzerland,Western Europe,1944,Medicine
+1995,Edward B.,Lewis,Male,United States,North America,1918,Medicine
+1995,Christiane,Nüsslein-Volhard,Female,Germany,Western Europe,1942,Medicine
+1995,Eric F.,Wieschaus,Male,United States,North America,1947,Medicine
+1994,Alfred G.,Gilman,Male,United States,North America,1941,Medicine
+1994,Martin,Rodbell,Male,United States,North America,1925,Medicine
+1993,Richard J.,Roberts,Male,United Kingdom,Northern Europe,1943,Medicine
+1993,Phillip A.,Sharp,Male,United States,North America,1944,Medicine
+1992,Edmond H.,Fischer,Male,Switzerland,Western Europe,1920,Medicine
+1992,Edwin G.,Krebs,Male,United States,North America,1918,Medicine
+1991,Erwin,Neher,Male,Germany,Western Europe,1944,Medicine
+1991,Bert,Sakmann,Male,Germany,Western Europe,1942,Medicine
+1990,Joseph E.,Murray,Male,United States,North America,1919,Medicine
+1990,E. Donnall,Thomas,Male,United States,North America,1920,Medicine
+1989,J. Michael,Bishop,Male,United States,North America,1936,Medicine
+1989,Harold E.,Varmus,Male,United States,North America,1939,Medicine
+1988,Sir James W.,Black,Male,United Kingdom,Northern Europe,1924,Medicine
+1988,Gertrude B.,Elion,Female,United States,North America,1918,Medicine
+1988,George H.,Hitchings,Male,United States,North America,1905,Medicine
+1987,Susumu,Tonegawa,Male,Japan,East Asia,1939,Medicine
+1986,Stanley,Cohen,Male,United States,North America,1922,Medicine
+1986,Rita,Levi-Montalcini,Female,Italy,Southern Europe,1909,Medicine
+1985,Michael S.,Brown,Male,United States,North America,1941,Medicine
+1985,Joseph L.,Goldstein,Male,United States,North America,1940,Medicine
+1984,Niels K.,Jerne,Male,Denmark,Northern Europe,1911,Medicine
+1984,Georges J.F.,Köhler,Male,Germany,Western Europe,1946,Medicine
+1984,César,Milstein,Male,Argentina,South America,1927,Medicine
+1983,Barbara,McClintock,Female,United States,North America,1902,Medicine
+1982,Sune K.,Bergström,Male,Sweden,Northern Europe,1916,Medicine
+1982,Bengt I.,Samuelsson,Male,Sweden,Northern Europe,1934,Medicine
+1982,John R.,Vane,Male,United Kingdom,Northern Europe,1927,Medicine
+1981,David H.,Hubel,Male,United States,North America,1926,Medicine
+1981,Roger W.,Sperry,Male,United States,North America,1913,Medicine
+1981,Torsten N.,Wiesel,Male,Sweden,Northern Europe,1924,Medicine
+1980,Baruj,Benacerraf,Male,United States,North America,1920,Medicine
+1980,Jean,Dausset,Male,France,Western Europe,1916,Medicine
+1980,George D.,Snell,Male,United States,North America,1903,Medicine
+1979,Allan M.,Cormack,Male,United States,North America,1924,Medicine
+1979,Godfrey N.,Hounsfield,Male,United Kingdom,Northern Europe,1919,Medicine
+1978,Werner,Arber,Male,Switzerland,Western Europe,1929,Medicine
+1978,Daniel,Nathans,Male,United States,North America,1928,Medicine
+1978,Hamilton O.,Smith,Male,United States,North America,1931,Medicine
+1977,Roger,Guillemin,Male,United States,North America,1924,Medicine
+1977,Andrew V.,Schally,Male,United States,North America,1926,Medicine
+1977,Rosalyn,Yalow,Female,United States,North America,1921,Medicine
+1976,Baruch S.,Blumberg,Male,United States,North America,1925,Medicine
+1976,D. Carleton,Gajdusek,Male,United States,North America,1923,Medicine
+1975,David,Baltimore,Male,United States,North America,1938,Medicine
+1975,Renato,Dulbecco,Male,United States,North America,1914,Medicine
+1975,Howard M.,Temin,Male,United States,North America,1934,Medicine
+1974,Albert,Claude,Male,Belgium,Western Europe,1899,Medicine
+1974,Christian,de Duve,Male,Belgium,Western Europe,1917,Medicine
+1974,George E.,Palade,Male,United States,North America,1912,Medicine
+1973,Konrad,Lorenz,Male,Austria,Western Europe,1903,Medicine
+1973,Nikolaas,Tinbergen,Male,United Kingdom,Northern Europe,1907,Medicine
+1973,Karl,von Frisch,Male,Germany,Western Europe,1886,Medicine
+1972,Gerald M.,Edelman,Male,United States,North America,1929,Medicine
+1972,Rodney R.,Porter,Male,United Kingdom,Northern Europe,1917,Medicine
+1971,Earl W.,"Sutherland, Jr.",Male,United States,North America,1915,Medicine
+1970,Julius,Axelrod,Male,United States,North America,1912,Medicine
+1970,Sir Bernard,Katz,Male,United Kingdom,Northern Europe,1911,Medicine
+1970,Ulf,von Euler,Male,Sweden,Northern Europe,1905,Medicine
+1969,Max,Delbrück,Male,United States,North America,1906,Medicine
+1969,Alfred D.,Hershey,Male,United States,North America,1908,Medicine
+1969,Salvador E.,Luria,Male,United States,North America,1912,Medicine
+1968,Robert W.,Holley,Male,United States,North America,1922,Medicine
+1968,H. Gobind,Khorana,Male,United States,North America,1922,Medicine
+1968,Marshall W.,Nirenberg,Male,United States,North America,1927,Medicine
+1967,Ragnar,Granit,Male,Sweden,Northern Europe,1900,Medicine
+1967,Haldan K.,Hartline,Male,United States,North America,1903,Medicine
+1967,George,Wald,Male,United States,North America,1906,Medicine
+1966,Charles B.,Huggins,Male,United States,North America,1901,Medicine
+1966,Peyton,Rous,Male,United States,North America,1879,Medicine
+1965,François,Jacob,Male,France,Western Europe,1920,Medicine
+1965,André,Lwoff,Male,France,Western Europe,1902,Medicine
+1965,Jacques,Monod,Male,France,Western Europe,1910,Medicine
+1964,Konrad,Bloch,Male,United States,North America,1912,Medicine
+1964,Feodor,Lynen,Male,Germany,Western Europe,1911,Medicine
+1963,Sir John,Eccles,Male,Australia,Australia and New Zealand,1903,Medicine
+1963,Alan L.,Hodgkin,Male,United Kingdom,Northern Europe,1914,Medicine
+1963,Andrew F.,Huxley,Male,United Kingdom,Northern Europe,1917,Medicine
+1962,Francis,Crick,Male,United Kingdom,Northern Europe,1916,Medicine
+1962,James,Watson,Male,United States,North America,1928,Medicine
+1962,Maurice,Wilkins,Male,United Kingdom,Northern Europe,1916,Medicine
+1961,Georg,von Békésy,Male,United States,North America,1899,Medicine
+1960,Sir Frank Macfarlane,Burnet,Male,Australia,Australia and New Zealand,1899,Medicine
+1960,Peter,Medawar,Male,United Kingdom,Northern Europe,1915,Medicine
+1959,Arthur,Kornberg,Male,United States,North America,1918,Medicine
+1959,Severo,Ochoa,Male,United States,North America,1905,Medicine
+1958,George,Beadle,Male,United States,North America,1903,Medicine
+1958,Joshua,Lederberg,Male,United States,North America,1925,Medicine
+1958,Edward,Tatum,Male,United States,North America,1909,Medicine
+1957,Daniel,Bovet,Male,Italy,Southern Europe,1907,Medicine
+1956,André F.,Cournand,Male,United States,North America,1895,Medicine
+1956,Werner,Forssmann,Male,Germany,Western Europe,1904,Medicine
+1956,Dickinson W.,Richards,Male,United States,North America,1895,Medicine
+1955,Hugo,Theorell,Male,Sweden,Northern Europe,1903,Medicine
+1954,John F.,Enders,Male,United States,North America,1897,Medicine
+1954,Frederick C.,Robbins,Male,United States,North America,1916,Medicine
+1954,Thomas H.,Weller,Male,United States,North America,1915,Medicine
+1953,Hans,Krebs,Male,United Kingdom,Northern Europe,1900,Medicine
+1953,Fritz,Lipmann,Male,United States,North America,1899,Medicine
+1952,Selman A.,Waksman,Male,United States,North America,1888,Medicine
+1951,Max,Theiler,Male,South Africa,Southern Africa,1899,Medicine
+1950,Philip S.,Hench,Male,United States,North America,1896,Medicine
+1950,Edward C.,Kendall,Male,United States,North America,1886,Medicine
+1950,Tadeus,Reichstein,Male,Switzerland,Western Europe,1897,Medicine
+1949,Walter,Hess,Male,Switzerland,Western Europe,1881,Medicine
+1949,Egas,Moniz,Male,Portugal,Western Europe,1874,Medicine
+1948,Paul,Müller,Male,Switzerland,Western Europe,1899,Medicine
+1947,Gerty,Cori,Female,United States,North America,1896,Medicine
+1947,Carl,Cori,Male,United States,North America,1896,Medicine
+1947,Bernardo,Houssay,Male,Argentina,South America,1887,Medicine
+1946,Hermann J.,Muller,Male,United States,North America,1890,Medicine
+1945,Ernst B.,Chain,Male,United Kingdom,Northern Europe,1906,Medicine
+1945,Sir Alexander,Fleming,Male,United Kingdom,Northern Europe,1881,Medicine
+1945,Sir Howard,Florey,Male,Australia,Australia and New Zealand,1898,Medicine
+1944,Joseph,Erlanger,Male,United States,North America,1874,Medicine
+1944,Herbert S.,Gasser,Male,United States,North America,1888,Medicine
+1943,Henrik,Dam,Male,Denmark,Northern Europe,1895,Medicine
+1943,Edward A.,Doisy,Male,United States,North America,1893,Medicine
+1939,Gerhard,Domagk,Male,Germany,Western Europe,1895,Medicine
+1938,Corneille,Heymans,Male,Belgium,Western Europe,1892,Medicine
+1937,Albert,Szent-Györgyi,Male,Hungary,Eastern Europe,1893,Medicine
+1936,Sir Henry,Dale,Male,United Kingdom,Northern Europe,1875,Medicine
+1936,Otto,Loewi,Male,Austria,Western Europe,1873,Medicine
+1935,Hans,Spemann,Male,Germany,Western Europe,1869,Medicine
+1934,George R.,Minot,Male,United States,North America,1885,Medicine
+1934,William P.,Murphy,Male,United States,North America,1892,Medicine
+1934,George H.,Whipple,Male,United States,North America,1878,Medicine
+1933,Thomas H.,Morgan,Male,United States,North America,1866,Medicine
+1932,Edgar,Adrian,Male,United Kingdom,Northern Europe,1889,Medicine
+1932,Sir Charles,Sherrington,Male,United Kingdom,Northern Europe,1857,Medicine
+1931,Otto,Warburg,Male,Germany,Western Europe,1883,Medicine
+1930,Karl,Landsteiner,Male,Austria,Western Europe,1868,Medicine
+1929,Christiaan,Eijkman,Male,Netherlands,Western Europe,1858,Medicine
+1929,Sir Frederick,Hopkins,Male,United Kingdom,Northern Europe,1861,Medicine
+1928,Charles,Nicolle,Male,France,Western Europe,1866,Medicine
+1927,Julius,Wagner-Jauregg,Male,Austria,Western Europe,1857,Medicine
+1926,Johannes,Fibiger,Male,Denmark,Northern Europe,1867,Medicine
+1924,Willem,Einthoven,Male,Netherlands,Western Europe,1860,Medicine
+1923,Frederick G.,Banting,Male,Canada,North America,1891,Medicine
+1923,John,Macleod,Male,Canada,North America,1876,Medicine
+1922,Archibald V.,Hill,Male,United Kingdom,Northern Europe,1886,Medicine
+1922,Otto,Meyerhof,Male,Germany,Western Europe,1884,Medicine
+1920,August,Krogh,Male,Denmark,Northern Europe,1874,Medicine
+1919,Jules,Bordet,Male,Belgium,Western Europe,1870,Medicine
+1914,Robert,Bárány,Male,Austria,Western Europe,1876,Medicine
+1913,Charles,Richet,Male,France,Western Europe,1850,Medicine
+1912,Alexis,Carrel,Male,France,Western Europe,1873,Medicine
+1911,Allvar,Gullstrand,Male,Sweden,Northern Europe,1862,Medicine
+1910,Albrecht,Kossel,Male,Germany,Western Europe,1853,Medicine
+1909,Theodor,Kocher,Male,Switzerland,Western Europe,1841,Medicine
+1908,Paul,Ehrlich,Male,Germany,Western Europe,1854,Medicine
+1908,Ilya,Mechnikov,Male,Russia,Eastern Europe,1845,Medicine
+1907,Alphonse,Laveran,Male,France,Western Europe,1845,Medicine
+1906,Camillo,Golgi,Male,Italy,Southern Europe,1843,Medicine
+1906,Santiago,Ramón y Cajal,Male,Spain,Southern Europe,1852,Medicine
+1905,Robert,Koch,Male,Germany,Western Europe,1843,Medicine
+1904,Ivan,Pavlov,Male,Russia,Eastern Europe,1849,Medicine
+1903,Niels Ryberg,Finsen,Male,Denmark,Northern Europe,1860,Medicine
+1902,Ronald,Ross,Male,United Kingdom,Northern Europe,1857,Medicine
+1901,Emil,von Behring,Male,Germany,Western Europe,1854,Medicine
+2020,World Food Programme (WFP),,Institution,Italy,Southern Europe,1961,Peace
+2019,Abiy Ahmed,Ali,Male,Ethiopia,Eastern Africa,1976,Peace
+2018,Nadia,Murad,Female,Iraq,Middle East,1993,Peace
+2018,Denis,Mukwege,Male,"Congo, Democratic Republic",Middle Africa,1955,Peace
+2017,International Campaign to Abolish Nuclear Weapons (ICAN),,Institution,Switzerland,Western Europe,2007,Peace
+2016,Juan Manuel,Santos Calderón,Male,Colombia,South America,1951,Peace
+2015,National Dialogue Quartet,,Institution,Tunisia,Northern Africa,2013,Peace
+2014,Malala,Yousafzai,Female,Pakistan,South Asia,1997,Peace
+2014,Kailash,Satyarthi,Male,India,South Asia,1954,Peace
+2013,Organization for the Prohibition of Chemical Weapons,,Institution,Netherlands,Western Europe,1997,Peace
+2012,European Union (EU),,Institution,Belgium,Western Europe,1957,Peace
+2011,Tawakkul,Karman,Female,Yemen,Middle East,1979,Peace
+2011,Leymah,Gbowee,Female,Liberia,Western Africa,1972,Peace
+2011,Ellen Johnson,Sirleaf,Female,Liberia,Western Africa,1938,Peace
+2010,Liu,Xiaobo,Male,China,East Asia,1955,Peace
+2009,Barack,Obama,Male,United States,North America,1961,Peace
+2008,Martti,Ahtisaari,Male,Finland,Northern Europe,1937,Peace
+2007,Intergovernmental Panel on Climate Change (IPCC),,Institution,Switzerland,Western Europe,1988,Peace
+2007,Albert Arnold (Al),Gore Jr.,Male,United States,North America,1948,Peace
+2006,Grameen Bank,,Institution,Bangladesh,South Asia,1976,Peace
+2006,Muhammad,Yunus,Male,Bangladesh,South Asia,1940,Peace
+2005,International Atomic Energy Agency,,Institution,Austria,Western Europe,1957,Peace
+2005,Mohamed,ElBaradei,Male,Egypt,Northern Africa,1942,Peace
+2004,Wangari,Maathai,Female,Kenya,Eastern Africa,1940,Peace
+2003,Shirin,Ebadi,Female,Iran,Middle East,1947,Peace
+2002,Jimmy,Carter,Male,United States,North America,1924,Peace
+2001,United Nations,,Institution,United States,North America,1945,Peace
+2001,Kofi,Annan,Male,Ghana,Western Africa,1938,Peace
+2000,Kim,Dae-jung,Male,South Korea,East Asia,1925,Peace
+1999,Médecins Sans Frontières,,Institution,Belgium,Western Europe,1971,Peace
+1998,David,Trimble,Male,United Kingdom,Northern Europe,1944,Peace
+1998,John,Hume,Male,United Kingdom,Northern Europe,1937,Peace
+1997,International Campaign to Ban Landmines,,Institution,United States,North America,1992,Peace
+1997,Jody,Williams,Female,United States,North America,1950,Peace
+1996,José,Ramos-Horta,Male,Timor Leste,Southeast Asia,1949,Peace
+1996,Carlos Filipe Ximenes,Belo,Male,Timor Leste,Southeast Asia,1948,Peace
+1995,Pugwash Conferences on Science and World Affairs,,Institution,Canada,North America,1957,Peace
+1995,Joseph,Rotblat,Male,United Kingdom,Northern Europe,1908,Peace
+1994,Yasser,Arafat,Male,"Palestinian Territory, Occupied",Middle East,1929,Peace
+1994,Shimon,Peres,Male,Israel,Middle East,1923,Peace
+1994,Yitzhak,Rabin,Male,Israel,Middle East,1922,Peace
+1993,F.W.,de Klerk,Male,South Africa,Southern Africa,1936,Peace
+1993,Nelson,Mandela,Male,South Africa,Southern Africa,1918,Peace
+1992,Rigoberta Menchú,Tum,Female,Guatemala,Central America,1959,Peace
+1991,Aung San Suu,Kyi,Female,Myanmar,Southeast Asia,1945,Peace
+1990,Mikhail,Gorbachev,Male,Soviet Union,Eastern Europe,1931,Peace
+1989,The 14th Dalai Lama,,Male,China,East Asia,1935,Peace
+1988,United Nations Peacekeeping Forces,,Institution,United States,North America,1948,Peace
+1987,Oscar Arias,Sánchez,Male,Costa Rica,Central America,1941,Peace
+1986,Elie,Wiesel,Male,United States,North America,1928,Peace
+1985,International Physicians for the Prevention of Nuclear War,,Institution,United States,North America,1980,Peace
+1984,Desmond,Tutu,Male,South Africa,Southern Africa,1931,Peace
+1983,Lech,Walesa,Male,Poland,Eastern Europe,1943,Peace
+1982,Alfonso García,Robles,Male,Mexico,North America,1911,Peace
+1982,Alva,Myrdal,Female,Sweden,Northern Europe,1902,Peace
+1981,Office of the United Nations High Commissioner for Refugees,,Institution,Switzerland,Western Europe,1951,Peace
+1980,Adolfo Pérez,Esquivel,Male,Argentina,South America,1931,Peace
+1979,Mother Teresa,,Female,India,South Asia,1910,Peace
+1978,Anwar,al-Sadat,Male,Egypt,Northern Africa,1918,Peace
+1978,Menachem,Begin,Male,Israel,Middle East,1913,Peace
+1977,Amnesty International,,Institution,United Kingdom,Northern Europe,1961,Peace
+1976,Mairead,Corrigan,Female,United Kingdom,Northern Europe,1944,Peace
+1976,Betty,Williams,Female,United Kingdom,Northern Europe,1943,Peace
+1975,Andrei,Sakharov,Male,Soviet Union,Eastern Europe,1921,Peace
+1974,Seán,MacBride,Male,Ireland,Northern Europe,1904,Peace
+1974,Eisaku,Sato,Male,Japan,East Asia,1901,Peace
+1973,Henry,Kissinger,Male,United States,North America,1923,Peace
+1973,Le Duc,Tho,Male,Viet Nam,Southeast Asia,1910,Peace
+1971,Willy,Brandt,Male,Germany,Western Europe,1913,Peace
+1970,Norman,Borlaug,Male,United States,North America,1914,Peace
+1969,International Labour Organization,,Institution,Switzerland,Western Europe,1919,Peace
+1968,René,Cassin,Male,France,Western Europe,1887,Peace
+1965,United Nations Children's Fund,,Institution,United States,North America,1946,Peace
+1964,Martin Luther,King,Male,United States,North America,1929,Peace
+1963,International Committee of the Red Cross,,Institution,Switzerland,Western Europe,1863,Peace
+1963,League of Red Cross Societies,,Institution,Switzerland,Western Europe,1863,Peace
+1962,Linus,Pauling,Male,United States,North America,1901,Peace
+1961,Dag,Hammarskjöld,Male,Sweden,Northern Europe,1905,Peace
+1960,Albert,Lutuli,Male,South Africa,Southern Africa,1898,Peace
+1959,Philip,Noel-Baker,Male,United Kingdom,Northern Europe,1889,Peace
+1958,Georges,Pire,Male,Belgium,Western Europe,1910,Peace
+1957,Lester Bowles,Pearson,Male,Canada,North America,1897,Peace
+1954,Office of the United Nations High Commissioner for Refugees,,Institution,Switzerland,Western Europe,1951,Peace
+1953,George C.,Marshall,Male,United States,North America,1880,Peace
+1952,Albert,Schweitzer,Male,France,Western Europe,1875,Peace
+1951,Léon,Jouhaux,Male,France,Western Europe,1879,Peace
+1950,Ralph,Bunche,Male,United States,North America,1904,Peace
+1949,Lord Boyd,Orr,Male,United Kingdom,Northern Europe,1880,Peace
+1947,American Friends Service Committee,,Institution,United States,North America,1672,Peace
+1947,Friends Service Council,,Institution,United Kingdom,Northern Europe,1647,Peace
+1946,Emily Greene,Balch,Female,United States,North America,1867,Peace
+1946,John R.,Mott,Male,United States,North America,1865,Peace
+1945,Cordell,Hull,Male,United States,North America,1871,Peace
+1944,International Committee of the Red Cross,,Institution,Switzerland,Western Europe,1863,Peace
+1938,Nansen International Office for Refugees,,Institution,Switzerland,Western Europe,1921,Peace
+1937,Robert,Cecil,Male,United Kingdom,Northern Europe,1864,Peace
+1936,Carlos Saavedra,Lamas,Male,Argentina,South America,1878,Peace
+1935,Carl,von Ossietzky,Male,Germany,Western Europe,1889,Peace
+1934,Arthur,Henderson,Male,United Kingdom,Northern Europe,1863,Peace
+1933,Sir Norman,Angell,Male,United Kingdom,Northern Europe,1872,Peace
+1931,Nicholas Murray,Butler,Male,United States,North America,1862,Peace
+1931,Jane,Addams,Female,United States,North America,1860,Peace
+1930,Nathan,Söderblom,Male,Sweden,Northern Europe,1866,Peace
+1929,Frank B.,Kellogg,Male,United States,North America,1856,Peace
+1927,Ludwig,Quidde,Male,Germany,Western Europe,1858,Peace
+1927,Ferdinand,Buisson,Male,France,Western Europe,1841,Peace
+1926,Gustav,Stresemann,Male,Germany,Western Europe,1878,Peace
+1926,Aristide,Briand,Male,France,Western Europe,1862,Peace
+1925,Charles G.,Dawes,Male,United States,North America,1865,Peace
+1925,Sir Austen,Chamberlain,Male,United Kingdom,Northern Europe,1863,Peace
+1922,Fridtjof,Nansen,Male,Norway,Northern Europe,1861,Peace
+1921,Christian,Lange,Male,Norway,Northern Europe,1869,Peace
+1921,Hjalmar,Branting,Male,Sweden,Northern Europe,1860,Peace
+1920,Léon,Bourgeois,Male,France,Western Europe,1851,Peace
+1919,Woodrow,Wilson,Male,United States,North America,1856,Peace
+1917,International Committee of the Red Cross,,Institution,Switzerland,Western Europe,1863,Peace
+1913,Henri,La Fontaine,Male,Belgium,Western Europe,1854,Peace
+1912,Elihu,Root,Male,United States,North America,1845,Peace
+1911,Alfred,Fried,Male,Austria,Western Europe,1864,Peace
+1911,Tobias,Asser,Male,Netherlands,Western Europe,1838,Peace
+1910,Permanent International Peace Bureau,,Institution,Switzerland,Western Europe,1891,Peace
+1909,Paul Henri,d'Estournelles de Constant,Male,France,Western Europe,1852,Peace
+1909,Auguste,Beernaert,Male,Belgium,Western Europe,1829,Peace
+1908,Klas Pontus,Arnoldson,Male,Sweden,Northern Europe,1844,Peace
+1908,Fredrik,Bajer,Male,Denmark,Northern Europe,1837,Peace
+1907,Louis,Renault,Male,France,Western Europe,1843,Peace
+1907,Ernesto Teodoro,Moneta,Male,Italy,Southern Europe,1833,Peace
+1906,Theodore,Roosevelt,Male,United States,North America,1858,Peace
+1905,Bertha,von Suttner,Female,Austria,Western Europe,1843,Peace
+1904,Institute of International Law,,Institution,Belgium,Western Europe,1873,Peace
+1903,Randal,Cremer,Male,United Kingdom,Northern Europe,1828,Peace
+1902,Albert,Gobat,Male,Switzerland,Western Europe,1843,Peace
+1902,Élie,Ducommun,Male,Switzerland,Western Europe,1833,Peace
+1901,Henry,Dunant,Male,Switzerland,Western Europe,1828,Peace
+1901,Frédéric,Passy,Male,France,Western Europe,1822,Peace
